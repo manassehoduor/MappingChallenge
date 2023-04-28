@@ -1,6 +1,7 @@
 # Mapping Challenge
 
-## The composition of major religion affiliations among the population in Kenya
+## [The composition of major religion affiliations among the population in Kenya](https://github.com/manassehoduor/MappingChallenge/tree/main/2023)
+
 Source: 2019 Kenya Population & Housing Census (KPHC)
 
 ### Protestant
